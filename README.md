@@ -26,6 +26,11 @@ Predicting a students GPA using their SAT score. Introductory to sklearn. Code c
 -----
 # Data Analysis Projects
 
+## NBA Stats Analysis
+-----
+Parsed and pulled data from NBA stats website. Performed data cleaning and exploratory data analysis to find some patterns in the data. Wanted to explore which stats showed heavy correlation, the minutes played distribution, and to compare the stats percentage change from regular season to postseason. Code can be found [here](https://www.kaggle.com/code/bardenm/nba-stats-analysis/notebook)
+
+-----
 ## EDA Car Accidents
 -----
 
